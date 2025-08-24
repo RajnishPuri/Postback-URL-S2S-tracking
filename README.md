@@ -101,12 +101,12 @@ npm install
 Create `.env` file in the backend directory:
 
 ```env
-PORT=3001
+PORT=5000
 DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=postback_system
-DB_USER=postback_user
-DB_PASSWORD=postback_pass
+DB_USER=your_username
+DB_PASSWORD=your_password
 ```
 
 ### 6. Install frontend dependencies
